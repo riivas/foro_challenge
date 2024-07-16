@@ -1,0 +1,1 @@
+alter table topicos add respuesta varchar(300);
