@@ -1,3 +1,9 @@
-# foro_challenge
+# Foro_challenge
 
-<em> # ALURA FORO CHALLENGE </em>
+
+
+<h1>
+  <em align="center> # ALURA FORO CHALLENGE </em>
+    </h1>
+
+
